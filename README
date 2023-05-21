@@ -1,0 +1,13 @@
+Project Name : Mapping the shortest distance between two points on the map of Edmonton, Alblerta based on Djikstra's Algprithm.
+
+Running instructions: To run the program run the code in X forwarding, in main directory with files "soln" , "Makefile" , "README.md",
+"submission_validator.py" run the command "cd soln/".
+
+Inside the solution directory conatining files "Makefile" , "server" , "client" and "map" run the command "make clean" and 
+then run the command "make".
+
+On the opened map select the start vertex by clicking on map. To navigate through the map we can click and grab and to zoom in we can 
+scroll in to zoom and scroll out to zoom out. To quit we click on the cross of the map.
+
+Notes and Assumptions: 
+We do not calculate the path for start Vertex = end Vertex.
